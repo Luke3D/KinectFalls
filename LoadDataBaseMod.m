@@ -73,7 +73,7 @@ for idx_folder = startFoldIdx:stopFoldIdx
                 disp(Folder)        
                 
                 %only load one trial
-                if strcmp(Folder,'Data2/ADL/sit/1')
+                if strcmp(Folder,'Data2/Fall/front/1')
                     
                 %*************************
                 %Load wearable device data
